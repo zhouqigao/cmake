@@ -1,0 +1,14 @@
+/home/qigao/cmake/t3/build/CMakeFiles/install/strip.dir
+/home/qigao/cmake/t3/build/CMakeFiles/install/local.dir
+/home/qigao/cmake/t3/build/CMakeFiles/edit_cache.dir
+/home/qigao/cmake/t3/build/CMakeFiles/rebuild_cache.dir
+/home/qigao/cmake/t3/build/CMakeFiles/list_install_components.dir
+/home/qigao/cmake/t3/build/CMakeFiles/install.dir
+/home/qigao/cmake/t3/build/temp/CMakeFiles/install/strip.dir
+/home/qigao/cmake/t3/build/temp/CMakeFiles/install/local.dir
+/home/qigao/cmake/t3/build/temp/CMakeFiles/install.dir
+/home/qigao/cmake/t3/build/temp/CMakeFiles/list_install_components.dir
+/home/qigao/cmake/t3/build/temp/CMakeFiles/hello.dir
+/home/qigao/cmake/t3/build/temp/CMakeFiles/hello_static.dir
+/home/qigao/cmake/t3/build/temp/CMakeFiles/edit_cache.dir
+/home/qigao/cmake/t3/build/temp/CMakeFiles/rebuild_cache.dir

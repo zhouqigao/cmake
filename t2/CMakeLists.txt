@@ -1,0 +1,5 @@
+project(HELLO)
+cmake_minimum_required(VERSION 3.10)
+add_subdirectory(src)
+ADD_TEST(mytest ${PROJECT_BINARY_DIR}/bin/hello)
+ENABLE_TESTING()
