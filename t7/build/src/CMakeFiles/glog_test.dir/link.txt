@@ -1,1 +1,0 @@
-/usr/bin/c++ -rdynamic CMakeFiles/glog_test.dir/glog_test.cpp.o CMakeFiles/glog_test.dir/GlogWrapper.cpp.o -o ../bin/glog_test  -Wl,-rpath,/usr/local/lib /usr/local/lib/libglog.so 
